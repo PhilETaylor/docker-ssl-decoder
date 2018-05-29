@@ -5,3 +5,4 @@ MAINTAINER Phil Taylor <phil@phil-taylor.com>
 RUN cd /var/www/html && git clone https://github.com/RaymiiOrg/ssl-decoder.git .
 
 EXPOSE 80
+
